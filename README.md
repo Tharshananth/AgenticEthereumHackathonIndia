@@ -40,12 +40,12 @@ We don’t just simplify finance. We democratize it—with trust, clarity, and f
 
 ## 🧱 Tech Stack
 
-- 🖥 Frontend: [Next.js 14.2.30 / React 18.2.0 / Ether.js / Tailwind CSS 3.3.0 / Responsive design / Lucide-React icons]
-- ⚙ Backend: [Node.js / Next.js API Routes / RESTful APIs / TypeScript]
+- 🖥 Frontend: [Next.js 14.2.30 / React 18.2.0 / TypeScript 5.2.0 / Tailwind CSS 3.3.0 / Responsive design / Lucide React icons / Ether.js]
+- ⚙ Backend: Backend: [Node.js / Next.js API Routes / RESTful APIs / web3.py]
 - 🧠 AI: [Google Gemini AI / @google/generative-ai 0.2.0 / Fallback response system / Context-aware DeFi knowledge]
-- 🔗 Blockchain: [Ganache - Ethereum ecosystem / Web3 wallet simulation / DeFi protocols (LIDO/AAVE) / Smart contract concepts]
+- 🔗 Blockchain: [Ethereum ecosystem / Web3 wallet simulation / DeFi protocols (LIDO/AAVE) / Smart contract concepts]
 - 🔍 DB/Storage: [In-memory state management / Local storage / Real-time market data caching / Transaction history tracking]
-- 🚀 Hosting: [Next.js development server / Local deployment / Production-ready build system / Hot reloading]
+- 🚀 Hosting: [Next.js development server / Local deployment / Production-ready build system / Hot reloading]
 
 ---
 
