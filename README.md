@@ -9,8 +9,10 @@ Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geo
 ## 📌 Problem Statement
 
 We addressed the challenge: *“DeFi + Financial Inclusion Agents”*  
-### Solution : 
-Brief description of the challenge and why it matters.
+### Problem Statement
+We addressed the challenge: “DeFi + Financial Inclusion Agents” Access to decentralized finance (DeFi) remains limited for underserved groups such as rural communities, microfinance recipients, and first-time crypto users. Traditional onboarding often demands significant technical knowledge, while decision-making involves parsing through complex yield strategies, fluctuating gas fees, and unfamiliar risk profiles. For a new user, this avalanche of decentralized jargon, wallets, and protocol choices can be overwhelming—making DeFi feel inaccessible and unsafe. These barriers prevent equitable participation in blockchain-powered financial ecosystems.
+
+Our challenge was to simplify and personalize DeFi strategy discovery—making it intuitive, inclusive, and intent-driven. By shifting from keyword-based queries to AI-powered intent understanding, we aimed to offer users tailored suggestions that feel conversational, relevant, and empowering—rather than technical or intimidating.
 
 ---
 
@@ -41,7 +43,7 @@ We don’t just simplify finance. We democratize it—with trust, clarity, and f
 
 ## 🧱 Tech Stack
 
-- 🖥 Frontend: [Next.js 14.2.30 / React 18.2.0 / TypeScript 5.2.0 / Tailwind CSS 3.3.0 / Responsive design / Lucide React icons]
+- 🖥 Frontend: [Next.js 14.2.30 / React 18.2.0 / Ether.js / Tailwind CSS 3.3.0 / Responsive design / Lucide-React icons]
 - ⚙ Backend: [Node.js / Next.js API Routes / RESTful APIs / TypeScript]
 - 🧠 AI: [Google Gemini AI / @google/generative-ai 0.2.0 / Fallback response system / Context-aware DeFi knowledge]
 - 🔗 Blockchain: [Ganache - Ethereum ecosystem / Web3 wallet simulation / DeFi protocols (LIDO/AAVE) / Smart contract concepts]
