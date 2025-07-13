@@ -1,6 +1,6 @@
 # Agentic Ethereum Hackathon India
 
-# 🛠 Project Title - [Team Name]
+# 🛠 Project Title - G.O.A.T
 
 Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geodework! This repository includes our project code, documentation, and related assets.
 
@@ -8,26 +8,28 @@ Welcome to our submission for the *Agentic Ethereum Hackathon* by Reskilll & Geo
 
 ## 📌 Problem Statement
 
-We addressed the challenge: *“[Problem Statement Title]”*  
+We addressed the challenge: *“DeFi + Financial Inclusion Agents”*  
+### Solution : 
 Brief description of the challenge and why it matters.
 
 ---
 
 ## 💡 Our Solution
 
-*Project Name:* [Your Project Name]  
+*Project Name:* 
+#### FinGeniee - Intent-based Ai suggestion agent. 
 A short pitch of your solution — what you built, who it’s for, and why it’s impactful.
 
 ---
 
 ## 🧱 Tech Stack
 
-- 🖥 Frontend: [React / Next.js / etc.]
-- ⚙ Backend: [Node.js / Python / etc.]
-- 🧠 AI: [Llama 3 / LangChain / OpenAI / etc.]
-- 🔗 Blockchain: [Ethereum / Solidity / Foundry / etc.]
-- 🔍 DB/Storage: [IPFS / PostgreSQL / Firebase / etc.]
-- 🚀 Hosting: [Vercel / Netlify / Render / etc.]
+- 🖥 Frontend: [Next.js 14.2.30 / React 18.2.0 / TypeScript 5.2.0 / Tailwind CSS 3.3.0 / Responsive design / Lucide React icons]
+- ⚙ Backend: [Node.js / Next.js API Routes / RESTful APIs / TypeScript]
+- 🧠 AI: [Google Gemini AI / @google/generative-ai 0.2.0 / Fallback response system / Context-aware DeFi knowledge]
+- 🔗 Blockchain: [Ganache - Ethereum ecosystem / Web3 wallet simulation / DeFi protocols (LIDO/AAVE) / Smart contract concepts]
+- 🔍 DB/Storage: [In-memory state management / Local storage / Real-time market data caching / Transaction history tracking]
+- 🚀 Hosting: [Next.js development server / Local deployment / Production-ready build system / Hot reloading]
 
 ---
 
@@ -51,4 +53,3 @@ A short pitch of your solution — what you built, who it’s for, and why it’
 ├── .env.example
 ├── package.json / requirements.txt
 ├── yourppt.ppt
-
