@@ -33,10 +33,7 @@ And here's what makes it truly unique:
 
 📈 Impact For rural users, NGOs, and micro-investors, this is like having a DeFi advisor who:
 
-1.Understands intent
-2.Knows protocol behavior
-3.Protects against risk
-4.Easy conversational
+Understands intent, Knows protocol behavior, Protects against risk, Easy conversational
 We don’t just simplify finance. We democratize it—with trust, clarity, and foresight.
 
 ---
