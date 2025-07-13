@@ -18,7 +18,24 @@ Brief description of the challenge and why it matters.
 
 *Project Name:* 
 #### FinGeniee - Intent-based Ai suggestion agent. 
-A short pitch of your solution — what you built, who it’s for, and why it’s impactful.
+
+We built a conversational AI agent that understands the user's financial intent and suggests (not executes) DeFi strategies optimized for inclusion and safety. When a user asks: “How can I grow $100 for my village savings group?” the bot identifies suitable Ethereum-based protocols—like Aave for lending, Lido for staking, or stablecoin vaults for protection—and recommends the best-fit option.
+
+Unlike generic language models like ChatGPT, FinIntent AI is:
+Protocol-aware: Trained on structured DeFi strategy mappings and real-time protocol analytics.
+Action-specific: Focused solely on financial suggestion logic, not broad conversational topics.
+Risk-sensitive: Designed for communities where bad investments can severely impact livelihoods.
+And here's what makes it truly unique:
+
+💥 Volatility Protection Logic Since crypto markets can swing wildly overnight, our system doesn't stop at initial recommendations. If a user follows a suggestion and the associated asset starts crashing beyond a defined threshold, FinIntent AI proactively recommends conversion into stablecoins (e.g., USDC or DAI) to minimize loss. This real-time alert and migration safeguard makes our AI not just smart—but responsibly adaptive.
+
+📈 Impact For rural users, NGOs, and micro-investors, this is like having a DeFi advisor who:
+
+1.Understands intent
+2.Knows protocol behavior
+3.Protects against risk
+4.Easy conversational
+We don’t just simplify finance. We democratize it—with trust, clarity, and foresight.
 
 ---
 
@@ -35,7 +52,7 @@ A short pitch of your solution — what you built, who it’s for, and why it’
 
 ## 📽 Demo
 
-- 🎥 *Video Link*: [YouTube/Drive Link]  
+- 🎥 *Video Link*: https://drive.google.com/file/d/11I7minejhM2_8hSY9883AIP4-NNJuBXa/view?usp=sharing
 - 🖥 *Live App (if available)*: The application is locally hosted.
 
 ---
